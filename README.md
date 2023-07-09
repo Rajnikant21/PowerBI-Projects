@@ -11,3 +11,5 @@ With KPIs
 ![image](https://github.com/Rajnikant21/PowerBI-Projects/blob/24c693b720af94f1e5f873e7071779677761cb35/Financial%20Analysis/Screenshot%202023-05-18%20222838.png)
 # Financial Tracking
 ![image](https://github.com/Rajnikant21/PowerBI-Projects/blob/4e9020fa0e33d011141a8824c9dcb63be21f561a/Financial_Credit_tracking/Screenshot%202023-06-12%20191725.png)
+# VideoGame Sales Performance
+![image](https://github.com/Rajnikant21/PowerBI-Projects/blob/5828910ca8599f0e85d02f3c03a83694023d32b4/Videogame%20sales%20Performance/Screenshot%202023-06-12%20195106.png)
